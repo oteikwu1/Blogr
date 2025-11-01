@@ -197,7 +197,7 @@ hr{
 }
 
 .hero-section{
-    background: url(/images/bg-pattern-intro-mobile.svg) no-repeat center center;
+    background: url(images/bg-pattern-intro-mobile.svg) no-repeat center center;
     background-color: var(--gradient-red500);
     border-radius: 0 0 0 6rem;
 }
@@ -291,7 +291,7 @@ hr{
 
 .blogr{
     position: relative;
-    background-image: url(/images/bg-pattern-circles.svg);
+    background-image: url(images/bg-pattern-circles.svg);
     background-position: left -160px;
     background-size: 450px auto;
     background-repeat: no-repeat;
@@ -306,7 +306,7 @@ hr{
 .blogr::before {
     content: "";
     position: absolute;
-    background-image: url(/images/illustration-phones.svg);
+    background-image: url(images/illustration-phones.svg);
     background-repeat: no-repeat;
     background-size: 300px auto;
     background-position: center;
